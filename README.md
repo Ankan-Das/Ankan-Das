@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif" width="200" height="200" />
 
 I am currently in my final year of Electrical Engineering at IIT Kanpur. 
 
