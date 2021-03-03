@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![Alt Text](https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif)
+
+
 I am currently in my final year of Electrical Engineering at IIT Kanpur. 
 
 My primary field of interest is Data Science. You can find all the projects and work I have done here. 
