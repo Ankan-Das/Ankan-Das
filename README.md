@@ -1,5 +1,11 @@
 ### Hi there 👋
-#
+I am currently in my final year of Electrical Engineering at IIT Kanpur. 
+
+My primary field of interest is Data Science. You can find all the projects and work I have done here. 
+
+I am still working on making this viewer friendly. 
+
+Kudos!
 <!--
 **Ankan-Das/Ankan-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
