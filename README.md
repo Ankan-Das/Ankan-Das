@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif)
-
+<img src="https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif" width="40" height="40" />
 
 I am currently in my final year of Electrical Engineering at IIT Kanpur. 
 
@@ -23,4 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Alt Text](https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif)
 -->
